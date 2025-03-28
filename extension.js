@@ -1,6 +1,6 @@
 ({
     name: "MPU6050", // Category Name
-    description: "6-Axis (Gyro + Accelerometer) MEMS MotionTracking Devices with I2C Interface",
+    description: "MPU6050_light for Microblock IDE",
     author: "NightHawk Robotics",
     category: "Sensors",
     version: "0.0.1",
